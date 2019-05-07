@@ -1,0 +1,30 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "simple apploication",
+  "main": "s1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kir",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^1.2.3",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "dateformat": "^3.0.3",
+    "derby": "^0.10.9",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.15.6",
+    "find": "^0.3.0",
+    "html": "^1.0.0",
+    "jquery": "^3.3.1",
+    "mongodb": "^3.2.3",
+    "mysql": "^2.16.0",
+    "tether": "^1.4.5"
+  },
+  "devDependencies": {}
+}

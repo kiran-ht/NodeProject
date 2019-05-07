@@ -1,0 +1,41 @@
+body{
+  background: gray;
+}
+.dropdown-item:hover{
+  font-size: 1.09em;
+
+}
+.fa-trash:hover{
+  color:red;
+  padding-left:-20px;
+
+}
+ul{
+  margin:0;
+  padding:0;
+  list-style: none;
+}
+.fa-trash{
+  margin:0;
+  padding:0;
+}
+div .dropdown-item {
+  background: lightyellow;
+}
+
+div .dropdown-item:nth-child(2n){
+  background:lightblue;
+}
+
+.ulclass{
+  margin-left: auto;
+  padding-right:75px;
+
+}
+.fa-bell-o,.dropdown-toggle,sup{
+  color:white;
+}
+.dropdown-menu{
+  height: 10%;
+
+}
